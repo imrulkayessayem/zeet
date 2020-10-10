@@ -232,7 +232,7 @@ span {
   transition: all .5s ease-in;
 }
 
-.choose-main-box .choose-box img:hover {
+.choose-main-box .choose-box:hover img {
   transform: rotateY(360deg);
 }
 
@@ -523,7 +523,7 @@ span {
   transition: all .5s ease-in;
 }
 
-.advanced-main-box .advanced-box img:hover {
+.advanced-main-box .advanced-box:hover img {
   transform: rotateY(360deg);
 }
 
